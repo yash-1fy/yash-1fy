@@ -46,6 +46,8 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-1fy&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1fy&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yash-1fy&show_icons=true&theme=radical&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1fy&layout=compact&theme=radical&cache_seconds=1800)
+
 
