@@ -49,4 +49,5 @@ Here are some ideas to get you started:
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yash-1fy&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yash-1fy&layout=compact&theme=dark)
 
